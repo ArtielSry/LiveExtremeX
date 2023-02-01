@@ -1,0 +1,91 @@
+.section__paddingOpinion{
+    padding: 7% 20%;
+    background: rgb(59,58,58);
+    background: linear-gradient(180deg, rgba(59,58,58,0.6278886554621849) 0%, rgba(255,255,255,0) 31%);
+    border-bottom: 1px solid rgba(200, 200, 200, 0.069);
+}
+.container__workers h2 {
+    font-size: 5em;
+    font-weight: 200;
+    color: white;
+    text-align: center;
+}
+
+.card {
+    overflow: hidden;
+    width: 200px;
+    height: 400px;
+    color: white;
+    padding: 5em 7em;
+}
+.card-top {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 50px 0;
+    text-align:left;
+}
+.card-top img {
+    border-radius: 50px;
+    width: 40px;
+    object-fit: cover;
+    cursor: pointer;
+    z-index: -1;
+}
+
+.card-top h3 {
+    font-weight: 200;
+    font-size: 1.5em;
+    margin: 0 20px;
+}
+
+.card-bottom h3 {
+    font-weight: 200;
+    font-size: 2em;
+}
+.card-bottom p {
+    font-size: 1em;
+    margin: 0;
+}
+
+.container__start img {
+    width: 100px;
+}
+.slick-slider button::before{
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+}
+
+.slick-dots{
+    display: none !important;
+}
+
+@media screen and (max-width:1200px) {
+    .section__paddingOpinion{
+        padding: 7%;
+    }
+    .container__workers h2 {
+        font-size: 2.8em;
+    }
+}
+@media screen and (max-width:500px) {
+    .section__paddingOpinion{
+        padding: 7% 7%;
+    }
+    .card {
+        padding: 3em 2em;
+    }
+    .card-bottom p {
+        font-size: 0.8em;
+        font-weight: 200;
+    }
+    .container__workers h2 {
+        font-size: 2.2em;
+    }
+    .card-top h3 {
+        font-size: 1em;
+    }
+    .container__start img {
+        width: 60px;
+    }
+}
