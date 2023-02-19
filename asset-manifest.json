@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/LiveExtremeX/static/css/main.01745115.css",
+    "main.js": "/LiveExtremeX/static/js/main.29421d3a.js",
+    "static/media/blog03.png": "/LiveExtremeX/static/media/blog03.172e11634189b72c772a.png",
+    "static/media/blog02.png": "/LiveExtremeX/static/media/blog02.e8b34355c1ceb8733c2c.png",
+    "static/media/blog04.png": "/LiveExtremeX/static/media/blog04.ad91fc2748f4b46a4f86.png",
+    "static/media/ai.png": "/LiveExtremeX/static/media/ai.e638b6be538a3919c220.png",
+    "static/media/blog01.png": "/LiveExtremeX/static/media/blog01.450bbcd50f9f5a927b96.png",
+    "static/media/imgPos.png": "/LiveExtremeX/static/media/imgPos.a6c4bc26bf1fb9102a4e.png",
+    "static/media/blog05.png": "/LiveExtremeX/static/media/blog05.c9d170166b1b553d70e4.png",
+    "static/media/start.png": "/LiveExtremeX/static/media/start.f352f6d03a5b7be1bbc6.png",
+    "static/media/logo.png": "/LiveExtremeX/static/media/logo.adf18f79ce700e926799.png",
+    "static/media/slick.svg": "/LiveExtremeX/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/LiveExtremeX/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/LiveExtremeX/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/LiveExtremeX/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/LiveExtremeX/index.html",
+    "main.01745115.css.map": "/LiveExtremeX/static/css/main.01745115.css.map",
+    "main.29421d3a.js.map": "/LiveExtremeX/static/js/main.29421d3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01745115.css",
+    "static/js/main.29421d3a.js"
+  ]
+}
