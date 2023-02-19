@@ -50,29 +50,6 @@
     background-color: #CDF72B;
     color: #2c2c2c;
 } 
-/* 
-.product__navbar-sign button,
-.product__navbar-menu_container button {
-    padding: 0.5rem 1rem;
-    color: #CDF72B;
-    margin: 10px;
-    background: transparent;
-    font-family: var(--font-family);
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 25px;
-    border: 2px solid #CDF72B;
-    outline: none;
-    cursor: pointer;
-    transition: 0.2s ease all;
-}
- */
-/* .product__navbar-sign button:hover,
-.product__navbar-links_container button:hover {
-    background-color: #CDF72B;
-    color: #2c2c2c;
-} */
-
 
 .product__navbar-menu {
     margin-left: 1rem;
@@ -85,11 +62,8 @@
 
 .product__navbar-menu_container {
     display: flex;
-    justify-content: flex-end;
-    align-items: flex-end;
     flex-direction: column;
-
-    text-align: end;
+    text-align: center;
     background-color: #2c2c2c;
     padding: 2rem;
     position: absolute;

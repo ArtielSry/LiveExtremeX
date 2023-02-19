@@ -85,7 +85,7 @@ const Workers = ({ title, img, price}) => {
             <img src={item.img} alt="t-shirt"/>
             <h3>{item.person}</h3>
            <div className='container__start'>
-            <img src={start}/></div> 
+            <img src={start} alt="stars"/></div> 
           </div>
         </div>
         ))}
