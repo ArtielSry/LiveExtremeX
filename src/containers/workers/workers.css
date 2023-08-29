@@ -53,7 +53,7 @@
 }
 .slick-slider button::before{
     background-color: transparent;
-    color: rgb(255, 255, 255);
+    color: transparent;
 }
 
 .slick-dots{
