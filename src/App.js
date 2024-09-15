@@ -1,4 +1,4 @@
-import React, { useEffect } from "react"; //rafce
+import React from "react"; //rafce
 
 import {
   Footer,
